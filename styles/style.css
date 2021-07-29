@@ -9,13 +9,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.my-text-style {
-  color: white;
-  z-index: 2;
-  font-size: 18px;
-  font-weight: 400;
-}
-
 .header {
   position: relative;
   display: flex;
@@ -54,7 +47,7 @@
   color:  #2f80ed;
 }
 
-.header__logo_place_header {
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
@@ -115,7 +108,7 @@
   font-weight: 400;
 }
 
-.two-columns__end-paragraph {
+.two-columns__paragraph:last-child {
   margin: 0;
 }
 
@@ -243,12 +236,15 @@
   font-size: 60px;
   font-weight: 700;
   z-index: 2;
+  color: white;
 }
 
 .section-subtitle_theme_dark {
   margin: 20px auto 0px;
   line-height: 34px;
   font-size: 24px;
+  color: white;
+  font-weight: 400;
 }
 
 .table_theme_dark {
@@ -256,6 +252,9 @@
   justify-content: space-between;
   position: relative;
   z-index: 2;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
 }
 
 .table__cell_theme_dark {
@@ -299,6 +298,9 @@
   display: flex;
   justify-content: space-between;
   width: 90%;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
 }
 
 .footer__column_content_copyright {
@@ -308,7 +310,7 @@
   justify-content: space-between;
 }
 
-.footer__logo_place-footer {
+.logo_place_footer {
   left: 64px;
   width: 183px;
   height: 35px;
@@ -340,7 +342,7 @@
   color: white;
 }
 
-.social-logo {
+.footer__social-icon {
   width: 16px;
   height: 16px;
   margin-right: 10px;
