@@ -1,0 +1,9 @@
+.table_theme_dark {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  z-index: 2;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
