@@ -1,3 +1,5 @@
 .footer__author {
   line-height: 25px;
+  margin: 0;
+  font-size: 18px;
 }
