@@ -10,4 +10,5 @@
 ```html
 ```css
 
-[ссылка на проект](//index.html)
+ПР1 и ПР2 Я.Практикум в моём исполнении.
+[ссылка на проект](https://anb24.github.io/how-to-learn/index.html)
